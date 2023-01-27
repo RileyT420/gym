@@ -10,3 +10,15 @@
     background-attachment: fixed; 
     background-size: 100% 100%;
 }
+.button{
+    margin-left: 40px;
+}
+.buttonA{
+    margin-left: 60px;
+}
+.buttonB{
+    margin-left: 100px;
+}
+.buttonC{
+    margin-left: 110px;
+}
